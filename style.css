@@ -88,13 +88,13 @@ label{
     color: lightgray;
 }
 
-.fa-solid{
+.close-icon{
     position: absolute;
     right: 20px;
     cursor: pointer;
 }
 
-.fa-solid:hover{
+.close-icon:hover{
     color: orangered;
 }
 
