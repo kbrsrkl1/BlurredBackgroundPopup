@@ -53,6 +53,8 @@ h1{
     background-size: cover;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    opacity: 1;
+    transition: all 0.7s;
 }
 
 h4{
@@ -100,4 +102,6 @@ label{
 
 .active.pop-up{
     visibility: hidden;
+    opacity: 0;
+    top: 20%;
 }
